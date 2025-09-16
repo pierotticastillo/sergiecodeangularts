@@ -44,3 +44,6 @@ Ejecuta `ng e2e` para ejecutar las pruebas end-to-end mediante una plataforma de
 
 Para obtener más ayuda sobre Angular CLI, usa `ng help` o consulta la [documentación oficial de Angular CLI](https://angular.dev/tools/cli).
 
+## 📄 Licencia
+
+Este proyecto está bajo la licencia [MIT](./LICENSE).
