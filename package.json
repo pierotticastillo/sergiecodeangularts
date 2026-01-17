@@ -39,7 +39,8 @@
   "pnpm": {
     "overrides": {
       "http-proxy-middleware": "^2.0.8",
-      "esbuild": "^0.25.0"
+      "esbuild": "^0.25.0",
+      "tar": ">=7.5.3"
     }
   }
 }
